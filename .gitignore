@@ -169,4 +169,4 @@ dmypy.json
 cython_debug/
 
 #Ignore secrets.env
-secrets.env
+secrets.env/
